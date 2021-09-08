@@ -10,7 +10,7 @@ I designed the tables to hold data in the CSVs, imported the CSVs into a SQL dat
 
 I first inspected the CSVs and sketched out an ERD of the tables. I used http://www.quickdatabasediagrams.com.
 
-<img width="703" alt="Screen Shot 2021-09-08 at 2 09 48 PM" src="https://user-images.githubusercontent.com/79863465/132570375-7006a96d-087d-4f79-96a1-71294f60adf9.png">
+<img width="403" alt="Screen Shot 2021-09-08 at 2 09 48 PM" src="https://user-images.githubusercontent.com/79863465/132570375-7006a96d-087d-4f79-96a1-71294f60adf9.png">
 
 #### Data Engineering
 
@@ -47,4 +47,6 @@ Next, I did the following:
 2. Created a histogram to visualize the most common salary ranges for employees
 
 3. Created a bar chart of average salary by title
+<img width="490" alt="Screen Shot 2021-09-08 at 2 11 47 PM" src="https://user-images.githubusercontent.com/79863465/132570543-c5497450-f8ca-428a-8e93-dba3db9f6159.png">
+
 
