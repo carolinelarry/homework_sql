@@ -49,4 +49,7 @@ Next, I did the following:
 3. Created a bar chart of average salary by title
 <img width="490" alt="Screen Shot 2021-09-08 at 2 11 47 PM" src="https://user-images.githubusercontent.com/79863465/132570543-c5497450-f8ca-428a-8e93-dba3db9f6159.png">
 
+## Contact
+Email: cgrace1011@gmail.com
+
 
